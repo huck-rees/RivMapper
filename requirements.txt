@@ -1,0 +1,11 @@
+earthengine-api
+geemap
+geopandas
+pandas
+rasterio
+shapely
+scipy
+numpy
+matplotlib
+requests
+zipfile36
